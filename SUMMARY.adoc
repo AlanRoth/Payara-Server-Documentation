@@ -6,7 +6,7 @@
 
 * link:README.adoc[Introduction]
 ** link:general-info/general-info.adoc[Overview]
-** link:release-notes/README.adoc[Release Notes]dsds
+** link:release-notes/README.adoc[Release Notes]
 *** link:release-notes/release-notes-201.adoc[Payara Server 5.201 Release Notes]
 ** link:security/security.adoc[Security]
 *** link:security/security-fix-list.adoc[Security Fixes Summary]
